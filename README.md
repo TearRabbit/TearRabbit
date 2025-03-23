@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me: TearRabbit
+I'm a Japanese student (B3) in Keio University, majoring in computer science.
 
-<!--
-**TearRabbit/TearRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐰 Passionate about LLM, DNN, and AI research.
+- 🐰 Developing a custom DNN framework from scratch with PyTorch.
+- 🐰 Exploring Metal optimizations for PyTorch.
+- 🐰 Interested in NLP, deep learning architectures, and AI system design.
+- 🐰 Feel free to connect with me!
+- 🐰 X: @USAGIn0NAMIda
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can understand English to some extent, but I'm not very confident in it.
+I often use Google Translate or ChatGPT for support.
+Sorry if my English sounds a bit strange!
